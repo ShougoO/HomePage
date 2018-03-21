@@ -142,7 +142,7 @@ a:active{
 	}
 	
 	.menu-list li{
-		height: 3em;
+		height: 10rem;
 		background-color: #FFFFFF;
 		border: 1px solid #333333;
 		display: block;
