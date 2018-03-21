@@ -117,6 +117,10 @@ a{
 		vertical-align: middle;
 	}
 
+	twtr-timeline {
+		height:auto!important;
+	}
+
 	.log{
 		width: 48%;
 		height: 300px;
