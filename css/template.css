@@ -121,27 +121,28 @@ a:active{
 		display: inline-block;
 	}
 	
-	.links img{
-		width: 100%;
-		display: block;
-	}
-	
 	.links{
 		width: 15%;
 		position: relative;
 		display: inline-block;
 	}
-	
+
+	.links img{
+		width: 100%;
+		display: block;
+	}
+
 	.menu-list {
 		position: absolute;
 		opacity: 0;
 		z-index: -1;
-		width: 350%;
-		font-size: 40px;
+		width: 300%;
+		font-size: 50px;
 		right: 0%;
 	}
 	
 	.menu-list li{
+		height: 3em;
 		background-color: #FFFFFF;
 		border: 1px solid #333333;
 		display: block;
